@@ -1,7 +1,6 @@
-# speller
+# JumbleWord
 
-A new Flutter application.
-
+A simple app for kids to identify correct spelling of a jumbled word using drag and drop.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
